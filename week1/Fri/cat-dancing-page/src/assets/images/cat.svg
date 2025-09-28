@@ -1,0 +1,55 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cat Body -->
+  <ellipse cx="100" cy="130" rx="45" ry="35" fill="#FF8C42"/>
+
+  <!-- Cat Head -->
+  <circle cx="100" cy="80" r="35" fill="#FF8C42"/>
+
+  <!-- Cat Ears -->
+  <polygon points="75,55 85,45 90,65" fill="#FF8C42"/>
+  <polygon points="110,65 115,45 125,55" fill="#FF8C42"/>
+  <polygon points="78,58 83,52 86,62" fill="#FF6B1A"/>
+  <polygon points="114,62 117,52 122,58" fill="#FF6B1A"/>
+
+  <!-- Cat Eyes -->
+  <ellipse cx="90" cy="75" rx="6" ry="8" fill="#000"/>
+  <ellipse cx="110" cy="75" rx="6" ry="8" fill="#000"/>
+  <ellipse cx="92" cy="73" rx="2" ry="3" fill="#FFF"/>
+  <ellipse cx="112" cy="73" rx="2" ry="3" fill="#FFF"/>
+
+  <!-- Cat Nose -->
+  <polygon points="100,85 95,90 105,90" fill="#FF1744"/>
+
+  <!-- Cat Mouth -->
+  <path d="M 100 90 Q 95 95 90 92" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M 100 90 Q 105 95 110 92" stroke="#000" stroke-width="2" fill="none"/>
+
+  <!-- Cat Whiskers -->
+  <line x1="70" y1="80" x2="85" y2="82" stroke="#000" stroke-width="2"/>
+  <line x1="70" y1="85" x2="85" y2="85" stroke="#000" stroke-width="2"/>
+  <line x1="115" y1="82" x2="130" y2="80" stroke="#000" stroke-width="2"/>
+  <line x1="115" y1="85" x2="130" y2="85" stroke="#000" stroke-width="2"/>
+
+  <!-- Cat Legs -->
+  <ellipse cx="80" cy="160" rx="8" ry="20" fill="#FF8C42"/>
+  <ellipse cx="95" cy="160" rx="8" ry="20" fill="#FF8C42"/>
+  <ellipse cx="105" cy="160" rx="8" ry="20" fill="#FF8C42"/>
+  <ellipse cx="120" cy="160" rx="8" ry="20" fill="#FF8C42"/>
+
+  <!-- Cat Paws -->
+  <ellipse cx="80" cy="175" rx="10" ry="6" fill="#2E2E2E"/>
+  <ellipse cx="95" cy="175" rx="10" ry="6" fill="#2E2E2E"/>
+  <ellipse cx="105" cy="175" rx="10" ry="6" fill="#2E2E2E"/>
+  <ellipse cx="120" cy="175" rx="10" ry="6" fill="#2E2E2E"/>
+
+  <!-- Cat Tail -->
+  <path d="M 145 130 Q 170 120 175 100 Q 180 80 170 60" stroke="#FF8C42" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+  <!-- Cat Belly -->
+  <ellipse cx="100" cy="135" rx="25" ry="20" fill="#FFB366"/>
+
+  <!-- Cat Stripes -->
+  <ellipse cx="100" cy="70" rx="30" ry="3" fill="#E6722C" opacity="0.7"/>
+  <ellipse cx="100" cy="120" rx="35" ry="4" fill="#E6722C" opacity="0.7"/>
+  <ellipse cx="100" cy="140" rx="30" ry="3" fill="#E6722C" opacity="0.7"/>
+</svg>
